@@ -1,1 +1,1 @@
-alert('prismacsi')
+alert('PRISMACSI')
